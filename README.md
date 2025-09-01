@@ -1,14 +1,14 @@
 # **CodeLock**
 
-**About:** 
+## **About**
 
 Bugsmirror CodeLock is an automated Static Application Security Testing (SAST) tool for mobile apps. It scans an app's code to detect 50+ security vulnerabilities like insecure code and security misconfigurations and generates a detailed SAST report within 30 minutes. Try CodeLock to ensure your app is secure from the ground up.
 
-# **CodeLock \- Static Security Analysis**
+## **CodeLock \- Static Security Analysis**
 
 Bugsmirror CodeLock is an automated SAST tool that detects 50+ security vulnerabilities in mobile applications by analyzing their static code, including obfuscated segments. It meticulously examines your app’s code to uncover hidden security flaws that could put your data and users at risk. Using advanced techniques, it decompiles mobile app files and scans for vulnerabilities. CodeLock tests your Android & iOS mobile applications thoroughly, revealing risks with precision.
 
-# **Problem Statement**
+## **Problem Statement**
 
 * Lack of reliable testing tool to ensure continuous security.
 
@@ -20,11 +20,11 @@ Bugsmirror CodeLock is an automated SAST tool that detects 50+ security vulnerab
 
 * Maintaining confidentiality if sharing source code for testing.
 
-# **Why is Static Security Testing Necessary?**
+## **Why is Static Security Testing Necessary?**
 
 Static security testing is a technique that evaluates the security and functionality of mobile applications by examining its code without running an application. It focuses on identifying vulnerabilities, code quality issues, and security flaws at an early stage of development. Static testing plays a vital role in improving the reliability and security of mobile apps. By identifying vulnerabilities during the early stages of the app development, it significantly reduces the risk of security breaches and ensures robust app performance. It also helps in ensuring that the app adheres to industry best practices and standards before it is deployed.
 
-# **Statistics of Static Security Analysis of Mobile Apps**
+## **Statistics of Static Security Analysis of Mobile Apps**
 
 In our in-depth Static Security Audits of over 300 mobile applications globally, we uncovered significant insights that highlight the need for robust static testing practices:
 
@@ -32,7 +32,7 @@ In our in-depth Static Security Audits of over 300 mobile applications globally,
 
 * **The remaining 35% of the applications were partially protected but still bypassable**.
 
-# **Key Features of CodeLock**
+## **Key Features of CodeLock**
 
 CodeLock assesses mobile apps across these parameters:
 
@@ -45,7 +45,7 @@ CodeLock assesses mobile apps across these parameters:
 7. Insufficient Input/Output Validation  
 8. Inadequate Cryptography
 
-# **🧠 How to use CodeLock?**
+## **🧠 How to use CodeLock?**
 
 1\. Contact Bugsmirror to register on the Bugsmirror MASST (Mobile Application Security Suite and Tools) portal.
 
@@ -55,7 +55,7 @@ CodeLock assesses mobile apps across these parameters:
 
 4\. Within 30 minutes you will get a static analysis report of your app’s code that you can view and download from the portal.
 
-# **🛡️ Why CodeLock?**
+## **🛡️ Why CodeLock?**
 
 * ✅ Helps in identification of potential issues at the code level even before the app is launched.
 
@@ -67,7 +67,7 @@ CodeLock assesses mobile apps across these parameters:
 
 * ✅ Prevents misuse of the code under analysis as no source code sharing required.
 
-# **🧪 Use Cases**
+## **🧪 Use Cases**
 
 CodeLock can be used to test:
 
@@ -77,7 +77,7 @@ CodeLock can be used to test:
 
 * Apps handling highly sensitive or personal data
 
-# **📞 Contact Us**
+## **📞 Contact Us**
 
 To learn more or request a demo, visit:  
 👉 [https://bugsmirror.com/codelock](https://bugsmirror.com/codelock)
